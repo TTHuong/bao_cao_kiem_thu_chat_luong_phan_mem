@@ -63,6 +63,7 @@
     <Compile Include="DangKyTest.cs" />
     <Compile Include="Dangnhap.cs" />
     <Compile Include="MuaHang.cs" />
+    <Compile Include="SuaNhaSanXuat.cs" />
     <Compile Include="Test.cs" />
     <Compile Include="Test_Them_tk.cs" />
     <Compile Include="Test_TK.cs" />
